@@ -1,14 +1,10 @@
-// Configuration file for future backend integration
+// Configuration file for backend integration
 export const config = {
   // API Configuration
   api: {
-    baseUrl: process.env.NEXT_PUBLIC_API_URL || "http://localhost:3000",
+    baseUrl: process.env.NEXT_PUBLIC_API_URL || "",
     timeout: 10000,
   },
-
-  // Mock data configuration
-  useMockData: true,
-  mockDataPath: "/mockdata.json",
 
   // Payment configuration
   payment: {
