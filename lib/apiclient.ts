@@ -12,7 +12,7 @@ class ApiClient {
   async fetchProducts(): Promise<Product[]> {
     try {
       if (config.useMockData) {
-        const response = await fetch(`http://localhost:3000${config.mockDataPath}`)
+        const response = await fetch(`${config.mockDataPath}`)
         if (!response.ok) {
           throw new Error("Failed to fetch products")
         }
