@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Premium Dried Mango",
+      "category": "Tropical Fruits",
+      "price": 250,
+      "description": "Sweet and chewy dried mango slices from Thailand. Rich in vitamins and natural sweetness. Perfect for snacking or adding to your breakfast.",
+      "image": "/images/mango.jpg",
+      "stock": 50
+    },
+    {
+      "id": 2,
+      "title": "Organic Dried Strawberries",
+      "category": "Berries",
+      "price": 320,
+      "description": "Naturally sweet dried strawberries with no added sugar. Packed with antioxidants and vitamin C. Great for trail mix or desserts.",
+      "image": "/images/strawberry.jpg",
+      "stock": 35
+    },
+    {
+      "id": 3,
+      "title": "Golden Raisins",
+      "category": "Grapes",
+      "price": 180,
+      "description": "Premium golden raisins with a sweet, tangy flavor. Perfect for baking, cooking, or enjoying as a healthy snack.",
+      "image": "/images/raisins.jpg",
+      "stock": 100
+    },
+    {
+      "id": 4,
+      "title": "Dried Pineapple Rings",
+      "category": "Tropical Fruits",
+      "price": 280,
+      "description": "Tropical dried pineapple rings bursting with natural sweetness. High in fiber and vitamin C. A delicious tropical treat.",
+      "image": "/images/pineapple.jpg",
+      "stock": 45
+    },
+    {
+      "id": 5,
+      "title": "Dried Blueberries",
+      "category": "Berries",
+      "price": 350,
+      "description": "Antioxidant-rich dried blueberries with a sweet-tart flavor. Perfect for smoothies, yogurt, or healthy snacking.",
+      "image": "/images/blueberry.jpg",
+      "stock": 40
+    },
+    {
+      "id": 6,
+      "title": "Turkish Apricots",
+      "category": "Stone Fruits",
+      "price": 290,
+      "description": "Premium Turkish apricots, naturally sweet and soft. Rich in fiber and beta-carotene. A Mediterranean delicacy.",
+      "image": "/images/apricot.jpg",
+      "stock": 60
+    },
+    {
+      "id": 7,
+      "title": "Dried Cranberries",
+      "category": "Berries",
+      "price": 310,
+      "description": "Tart and sweet dried cranberries. Great for salads, baking, or as a healthy snack. Rich in antioxidants.",
+      "image": "/images/cranberry.jpg",
+      "stock": 55
+    },
+    {
+      "id": 8,
+      "title": "Medjool Dates",
+      "category": "Dates",
+      "price": 380,
+      "description": "Premium Medjool dates, nature's candy. Soft, sweet, and caramel-like. Perfect for energy and natural sweetness.",
+      "image": "/images/dates.jpg",
+      "stock": 70
+    },
+    {
+      "id": 9,
+      "title": "Dried Papaya Chunks",
+      "category": "Tropical Fruits",
+      "price": 260,
+      "description": "Sweet tropical papaya chunks. Rich in digestive enzymes and vitamins. A healthy exotic snack.",
+      "image": "/images/papaya.jpg",
+      "stock": 30
+    },
+    {
+      "id": 10,
+      "title": "Dried Figs",
+      "category": "Stone Fruits",
+      "price": 340,
+      "description": "Sweet and chewy dried figs. High in fiber and minerals. Perfect for cheese boards or healthy snacking.",
+      "image": "/images/figs.jpg",
+      "stock": 48
+    },
+    {
+      "id": 11,
+      "title": "Banana Chips",
+      "category": "Tropical Fruits",
+      "price": 200,
+      "description": "Crispy banana chips with natural sweetness. A crunchy, satisfying snack packed with potassium.",
+      "image": "/images/banana.jpg",
+      "stock": 80
+    },
+    {
+      "id": 12,
+      "title": "Dried Cherries",
+      "category": "Stone Fruits",
+      "price": 360,
+      "description": "Tart and sweet dried cherries. Perfect for baking, trail mix, or enjoying on their own. Rich in antioxidants.",
+      "image": "/images/cherry.jpg",
+      "stock": 42
+    }
+  ]
+}
